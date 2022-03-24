@@ -6,5 +6,12 @@ public class CreateProductsTest {
 	@Test
 	public void createProduct() {
 		System.out.println("Product Created");
+		
+		
+		
+		
+		
+		
+		System.out.println("Product Created1");
 	}
 }
