@@ -13,5 +13,8 @@ public class CreateProductsTest {
 		
 		
 		System.out.println("products done");
+		
+		
+		System.out.println("deleted recent updated");
 	}
 }
