@@ -7,5 +7,7 @@ public class CreateProductsTest {
 	public void createProduct() {
 		System.out.println("Product Created");
 		System.out.println("Product Created1");
+		
+		System.out.println("products done");
 	}
 }
